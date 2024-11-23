@@ -18,13 +18,13 @@ Each file is named after the problem or has a reference to the problem ID for ea
 | Problem Name                          | Solution File                           | Difficulty |
 |---------------------------------------|-----------------------------------------|------------|
 | Swim in Rising Water                  | [swim_in_rising_water.cpp](LeetCode/swim_in_rising_water.cpp) | Hard       |
-| (Add more as you solve them)          |                                         |            |
+|          |                                         |            |
 
 ### Codeforces Problems
 | Problem Name                          | Solution File                           | Contest ID |
 |---------------------------------------|-----------------------------------------|------------|
-| (Example) Helpful Maths               | [helpful_maths.cpp](Codeforces/helpful_maths.cpp) | 339A       |
-| (Add more as you solve them)          |                                         |            |
+| Football               | [Problem - Football.cpp](https://codeforces.com/problemset/problem/96/A) | 96A       |
+|           |                                         |            |
 
 ---
 
