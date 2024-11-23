@@ -17,7 +17,7 @@ Each file is named after the problem or has a reference to the problem ID for ea
 ### LeetCode Problems
 | Problem Name                          | Solution File                           | Difficulty |
 |---------------------------------------|-----------------------------------------|------------|
-| Swim in Rising Water                  | [swim_in_rising_water.cpp](LeetCode/swim_in_rising_water.cpp) | Hard       |
+| Swim in Rising Water                  | [swim_in_rising_water.cpp](https://leetcode.com/problems/swim-in-rising-water/) | Hard       |
 |          |                                         |            |
 
 ### Codeforces Problems
